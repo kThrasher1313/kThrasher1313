@@ -9,5 +9,5 @@ Interested especially in Python, C++, Java, GUIs, Data Structures, and Algorithm
 - Ask me about my GUI experience
 - How to reach me: kat13iet@gmail.com
 - Pronouns: she/her/hers
-- Fun fact: the dogs name in my picture is ginger
+- Fun fact: the dog's name in my picture is ginger
   
