@@ -1,23 +1,13 @@
 ## Hi there 👋
 
-My name is Katie Thrasher, and I gradtuated from Virginia Tech (Go Hokies!) with a BS in CS 
+My name is Katie Thrasher, and I graduated from Virginia Tech (Go Hokies!) in 2025 with a BS in CS 
 
-Interested especially in Python, Java, Data Structures, and Algorithms!
+Interested especially in Python, C++, Java, GUIs, Data Structures, and Algorithms!
 
-- 🔭 I’m currently working on created video games in my free time
-- 🌱 I’m currently learning about full stack through Odin Project
+- I'm currently working on a website to host my recipes
+- I'm currently learning about quaternion math
+- Ask me about my GUI experience
+- How to reach me: kat13iet@gmail.com
+- Pronouns: she/her/hers
+- Fun fact: the dogs name in my picture is ginger
   
-<!--
-**kThrasher1313/kThrasher1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
